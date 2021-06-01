@@ -3,7 +3,11 @@
 <pre>
 <h1>µVision Build Log</h1>
 <h2>Project:</h2>
-C:\Users\Jerzy\Desktop\gittest\3serwo.uvproj
-Project File Date:  05/26/2021
+C:\Users\Jerzy\Desktop\git2\3serwo.uvproj
+Project File Date:  06/01/2021
 
 <h2>Output:</h2>
+Clean started: Project: '3serwo'
+   deleting intermediate output files for target 'Target 1'
+Clean started: Project: '3serwo'
+   deleting intermediate output files for target 'Target 1'
