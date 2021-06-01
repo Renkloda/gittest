@@ -137,7 +137,7 @@ int main (){
 				ServoGoTo(36);
 				break;
 			case RELEASED:
-				ServoGoTo(234);
+				
 					break;
 			default:
 				break;
