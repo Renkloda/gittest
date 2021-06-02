@@ -137,7 +137,6 @@ int main (){
 				ServoGoTo(36);
 				break;
 			case RELEASED:
-					ServoCallib();
 					break;
 			default:
 				break;
