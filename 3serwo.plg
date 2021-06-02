@@ -3,11 +3,11 @@
 <pre>
 <h1>µVision Build Log</h1>
 <h2>Project:</h2>
-C:\Users\kmie\Desktop\gajt\3serwo.uvproj
+C:\Users\kmie\Desktop\gittest\3serwo.uvproj
 Project File Date:  06/02/2021
 
 <h2>Output:</h2>
-Build target 'Target 1'
+Rebuild target 'Target 1'
 assembling Startup.s...
 compiling keyboard.c...
 compiling led.c...
